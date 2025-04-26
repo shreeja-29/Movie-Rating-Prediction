@@ -78,7 +78,7 @@ The **Movie Rating Prediction** project aims to build a machine learning model t
    ```
 
 3. **Download/Place the Dataset:**
-   - Place your dataset file (e.g., `movie_dataset.csv`) into the `data/` directory.
+   - Place your dataset file (e.g., `IMDb Indain Movies.csv`) into the `data/` directory.
 
 4. **Run the Application:**
 
