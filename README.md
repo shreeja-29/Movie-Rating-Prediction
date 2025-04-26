@@ -67,7 +67,7 @@ The **Movie Rating Prediction** project aims to build a machine learning model t
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your_username/movie-rating-prediction.git
+   git clone https://github.com/shreeja-29/Movie-Rating-Prediction.git
    cd movie-rating-prediction
    ```
 
